@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Abrham 👋
 
-<!--
-**abrham-27/abrham-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 PHP | React | MySQL | JavaScript  
+🎓 Computer Engineering Student  
+📚 Building smart systems for students and businesses
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+
+### 🎓 Grade12GuideSystem
+A student platform with:
+- Practice tests
+- University checker
+- Progress tracking
+- Study planner
+
+### 📚 Online Book Store
+Modern web-based bookstore system.
+
+### 🌐 Portfolio Projects
+Responsive websites and UI systems.
+### 🌐 school managment system
+modern school managmet system with a payment integrated system .
+all in one system .
+---
+
+## 🛠 Tech Stack
+
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: PHP,node js
+- Database: MySQL
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📈 Currently Learning
+
+- Advanced React
+- API Development
+- System Design
+- Deployment
+
+---
+
+## 📫 Contact Me
+
+- Telegram: https://t.me/abrham_projects
+- GitHub: https://github.com/abrham-27
+
+---
+
+⭐ Always building. Always learning.
